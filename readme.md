@@ -5,3 +5,6 @@ dependencies:
 npm i nodemon eslint eslint-config-prettier eslint-plugin-prettier prettier -D
 npm i express
 npm i @faker-js/faker
+
+heroku deploy 
+1- heroku create
