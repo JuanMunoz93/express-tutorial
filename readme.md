@@ -8,3 +8,5 @@ npm i @faker-js/faker
 
 heroku deploy 
 1- heroku create
+2- push to heroku main to deploy
+logs: heroku logs --tail
